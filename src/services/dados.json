@@ -1,0 +1,120 @@
+[
+    {
+      "paciente": {
+        "nome": "Maria Santos",
+        "idade": 45,
+        "sexo": "Feminino"
+      },
+      "exame": {
+        "tipo": "Raio-X de Tórax",
+        "data": "2023-09-25",
+        "funcionarioResponsavel": "Carlos Oliveira",
+        "valorRecebido": 85.75
+      }
+    },
+    {
+      "paciente": {
+        "nome": "José Pereira",
+        "idade": 32,
+        "sexo": "Masculino"
+      },
+      "exame": {
+        "tipo": "Exame de Sangue",
+        "data": "2023-09-26",
+        "funcionarioResponsavel": "Ana Rodrigues",
+        "valorRecebido": 55.00
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Ana Silva",
+        "idade": 28,
+        "sexo": "Feminino"
+      },
+      "exame": {
+        "tipo": "Ultrassonografia Abdominal",
+        "data": "2023-09-27",
+        "funcionarioResponsavel": "Mário Fernandes",
+        "valorRecebido": 150.25
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Pedro Oliveira",
+        "idade": 50,
+        "sexo": "Masculino"
+      },
+      "exame": {
+        "tipo": "Teste de Glicose",
+        "data": "2023-09-28",
+        "funcionarioResponsavel": "Carla Ribeiro",
+        "valorRecebido": 30.50
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Luísa Mendes",
+        "idade": 22,
+        "sexo": "Feminino"
+      },
+      "exame": {
+        "tipo": "Ressonância Magnética",
+        "data": "2023-09-29",
+        "funcionarioResponsavel": "Ricardo Santos",
+        "valorRecebido": 220.00
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Antônio Ferreira",
+        "idade": 40,
+        "sexo": "Masculino"
+      },
+      "exame": {
+        "tipo": "Exame de Urina",
+        "data": "2023-09-30",
+        "funcionarioResponsavel": "Julia Alves",
+        "valorRecebido": 42.25
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Marta Lima",
+        "idade": 55,
+        "sexo": "Feminino"
+      },
+      "exame": {
+        "tipo": "Tomografia Computadorizada",
+        "data": "2023-10-01",
+        "funcionarioResponsavel": "Paulo Gomes",
+        "valorRecebido": 180.00
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Fernando Rodrigues",
+        "idade": 38,
+        "sexo": "Masculino"
+      },
+      "exame": {
+        "tipo": "Ecocardiograma",
+        "data": "2023-10-02",
+        "funcionarioResponsavel": "Sofia Fernandes",
+        "valorRecebido": 120.75
+      }
+    },
+    {
+      "paciente": {
+        "nome": "Rosa Sousa",
+        "idade": 62,
+        "sexo": "Feminino"
+      },
+      "exame": {
+        "tipo": "Mamografia",
+        "data": "2023-10-03",
+        "funcionarioResponsavel": "André Silva",
+        "valorRecebido": 75.50
+      }
+    }
+  ]
+  
